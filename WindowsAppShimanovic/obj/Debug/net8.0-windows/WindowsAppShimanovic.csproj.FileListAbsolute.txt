@@ -1,0 +1,16 @@
+C:\Users\admin\Desktop\WindowsAppShimanovic\WindowsAppShimanovic\WindowsAppShimanovic\bin\Debug\net8.0-windows\WindowsAppShimanovic.exe
+C:\Users\admin\Desktop\WindowsAppShimanovic\WindowsAppShimanovic\WindowsAppShimanovic\bin\Debug\net8.0-windows\WindowsAppShimanovic.deps.json
+C:\Users\admin\Desktop\WindowsAppShimanovic\WindowsAppShimanovic\WindowsAppShimanovic\bin\Debug\net8.0-windows\WindowsAppShimanovic.runtimeconfig.json
+C:\Users\admin\Desktop\WindowsAppShimanovic\WindowsAppShimanovic\WindowsAppShimanovic\bin\Debug\net8.0-windows\WindowsAppShimanovic.dll
+C:\Users\admin\Desktop\WindowsAppShimanovic\WindowsAppShimanovic\WindowsAppShimanovic\bin\Debug\net8.0-windows\WindowsAppShimanovic.pdb
+C:\Users\admin\Desktop\WindowsAppShimanovic\WindowsAppShimanovic\WindowsAppShimanovic\obj\Debug\net8.0-windows\WindowsAppShimanovic.Form1.resources
+C:\Users\admin\Desktop\WindowsAppShimanovic\WindowsAppShimanovic\WindowsAppShimanovic\obj\Debug\net8.0-windows\WindowsAppShimanovic.csproj.GenerateResource.cache
+C:\Users\admin\Desktop\WindowsAppShimanovic\WindowsAppShimanovic\WindowsAppShimanovic\obj\Debug\net8.0-windows\WindowsAppShimanovic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\Desktop\WindowsAppShimanovic\WindowsAppShimanovic\WindowsAppShimanovic\obj\Debug\net8.0-windows\WindowsAppShimanovic.AssemblyInfoInputs.cache
+C:\Users\admin\Desktop\WindowsAppShimanovic\WindowsAppShimanovic\WindowsAppShimanovic\obj\Debug\net8.0-windows\WindowsAppShimanovic.AssemblyInfo.cs
+C:\Users\admin\Desktop\WindowsAppShimanovic\WindowsAppShimanovic\WindowsAppShimanovic\obj\Debug\net8.0-windows\WindowsAppShimanovic.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\WindowsAppShimanovic\WindowsAppShimanovic\WindowsAppShimanovic\obj\Debug\net8.0-windows\WindowsAppShimanovic.dll
+C:\Users\admin\Desktop\WindowsAppShimanovic\WindowsAppShimanovic\WindowsAppShimanovic\obj\Debug\net8.0-windows\refint\WindowsAppShimanovic.dll
+C:\Users\admin\Desktop\WindowsAppShimanovic\WindowsAppShimanovic\WindowsAppShimanovic\obj\Debug\net8.0-windows\WindowsAppShimanovic.pdb
+C:\Users\admin\Desktop\WindowsAppShimanovic\WindowsAppShimanovic\WindowsAppShimanovic\obj\Debug\net8.0-windows\WindowsAppShimanovic.genruntimeconfig.cache
+C:\Users\admin\Desktop\WindowsAppShimanovic\WindowsAppShimanovic\WindowsAppShimanovic\obj\Debug\net8.0-windows\ref\WindowsAppShimanovic.dll
